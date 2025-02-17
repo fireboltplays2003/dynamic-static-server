@@ -167,8 +167,9 @@ app.listen(PORT, () => {
         </ul>
     </nav>
     <main>
-        <p>You can contact us via email: <a href="mailto:info@example.com">info@example.com</a></p>
-        <p>Or by phone: 123-456-7890</p>
+        <p>You can contact us via email: rula.elias2004@gmail.com</p>
+        <p>You can contact us via email: stephan042003@gmail.com</p>
+        <p>Or by phone: 0532396136</p>
     </main>
 </body>
 </html>
