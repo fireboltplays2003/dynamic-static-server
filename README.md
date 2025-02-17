@@ -18,7 +18,12 @@ The server listens on port **3000** and includes:
 ✔️ Redirects unknown routes to the home page.  
 
 ---
+---
+## Programmers
 
+- **Stephanos Khoury**
+- **Rula Yosef**
+---
 ## **Example**  
 When a client visits `http://localhost:3000/`, `http://localhost:3000/about.html`, or `http://localhost:3000/products`, the server responds with the corresponding page or data.  
 
