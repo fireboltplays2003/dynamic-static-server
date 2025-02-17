@@ -167,9 +167,8 @@ app.listen(PORT, () => {
         </ul>
     </nav>
     <main>
-        <p>You can contact us via email: rula.elias2004@gmail.com</p>
-        <p>You can contact us via email: stephan042003@gmail.com</p>
-        <p>Or by phone: 0532396136</p>
+        <p>You can contact us via email: <a href="mailto:info@example.com">info@example.com</a></p>
+        <p>Or by phone: 123-456-7890</p>
     </main>
 </body>
 </html>
@@ -254,6 +253,11 @@ Now, the server is up and running on **http://localhost:3000** 🚀
 
 ## **License**
 📝 MIT License - Feel free to modify and use as needed.
+
+---
+
+✅ **Now your Express.js server is fully documented and ready for use!** 🚀  
+Let me know if you need any changes. 😊
 
 ---
 
